@@ -1,0 +1,10 @@
+<script>
+    document.addEventListener('paste', function (evt) {
+        let clipdata = evt.clipboardData || window.clipboardData;
+        visualize(clipdata.getData('text/plain'));
+    });
+
+    function visualize(js){
+        gameInstance.SendMessage('SectorGenerator', 'SectorUpdate', js);
+    }
+</script>
