@@ -16,8 +16,8 @@
 title: Sector Viz
 description: >- # this means to ignore newlines until "baseurl:"
   A WebGL viewer for sectors generated in Sectors Without Number
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/SectorViz" # the subpath of your site, e.g. /blog""
+url: "https://maxsond.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DanielMaxson
 github_username:  maxsond
 
