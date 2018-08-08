@@ -16,7 +16,7 @@ Click "Export"
 
 Click "JSON Format" and "Continue". This will download a .json text file.
 
-Copy all the text from that file into your clipboard and open [Sector Viz](/SectorViz).
+Copy all the text from that file into your clipboard and open [Sector Viz](/SectorViz/SectorViz).
 
 Once the Unity viewer has loaded and you see the space scene, 
 press Ctrl+V to paste the data into the scene.
