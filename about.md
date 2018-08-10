@@ -35,8 +35,6 @@ press Ctrl+V to paste the data into the scene.
 
 **E** - Down
 
-**Mouse** for camera direction
-
-**ESC** - Unlock cursor from Unity panel
+**Click+Drag** for camera direction
 
 **Click** stars to view their planets
